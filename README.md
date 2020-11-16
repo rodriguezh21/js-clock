@@ -1,4 +1,4 @@
-# Drum Kit ![Image of Badge](https://img.shields.io/badge/DrumKit-v1.0.0-yellow)
+# JS Clock ![Image of Badge](https://img.shields.io/badge/JSClock-v1.0.0-yellow)
 
 
 ![ScreenShot](/content/screenshot.png)
